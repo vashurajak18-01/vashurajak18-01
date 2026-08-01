@@ -12,10 +12,11 @@ A passionate Full Stack Developer | Python Developer | AI & ML Student from Indi
 📫 How to reach me: vashurajak660@gmail.com
 😄 Pronouns: He/Him
 ⚡ Fun fact: I love turning ideas into real-world applications through code.
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vashu Rajak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Vashu Rajak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vashu Rajak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 [![](https://komarev.com/ghpvc/?username=Vashu Rajak&icon=0&color=0)](https://visitcount.itsvg.in)
