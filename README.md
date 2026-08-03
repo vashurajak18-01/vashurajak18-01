@@ -1,4 +1,4 @@
-💫 Hi 👋, I'm Vashu Rajak
+# 💫 Hi 👋, I'm Vashu Rajak
 
 A passionate Full Stack Developer | Python Developer | AI & ML Student from India
 
