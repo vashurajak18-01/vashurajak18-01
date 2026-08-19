@@ -1,6 +1,6 @@
 # 💫  _Hi_ 👋,  I'm _Vashu Rajak_  
 
-### A passionate _Full Stack Developer_ | Python Developer | AI & ML Student from Krishna Institute of Technology (KIOT), Kanpur .
+### A passionate _Full Stack Developer_ | _Python Developer_ | AI & ML Student from Krishna Institute of Technology (KIOT), Kanpur .
 
 📧 Email Me 👉 ✉️ vashurajak660@gmail.com for Collaboration, Projects, or Tech Discussions. 😊
 
