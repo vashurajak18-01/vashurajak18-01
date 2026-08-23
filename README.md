@@ -6,7 +6,7 @@
 
  --> 🔭  I’m currently working on: Full Stack Web Development Projects 
  <br>
-🌱 I’m currently learning: Flask, MySQL, Git & GitHub, DSA <br>
+--> 🌱 I’m currently learning: Flask, MySQL, Git & GitHub, DSA <br>
 👯 I’m looking to collaborate on: Python & Full Stack Projects <br>
 🤔 I’m looking for help with: Open Source Contributions <br>
 💬 Ask me about: Python, Flask, HTML, CSS, SQLite, Git <br>
