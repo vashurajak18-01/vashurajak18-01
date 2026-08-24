@@ -12,7 +12,7 @@
 -> 💬 Ask me about: Python, Flask, HTML, CSS, SQLite, Git <br>
 -> 📫 How to reach me: vashurajak660@gmail.com <br>
 -> 😄 Pronouns: He/Him <br>
---> ⚡ _Fun fact_: I love turning ideas into real-world applications through code.
+-> ⚡ _Fun fact_: I love turning ideas into real-world applications through code.
 
 ---
 [![](https://komarev.com/ghpvc/?username=Vashu Rajak&icon=0&color=0)](https://visitcount.itsvg.in)
