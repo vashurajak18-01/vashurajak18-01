@@ -1,4 +1,4 @@
-# 💫  Hi 👋,  I'm _Vashu Rajak_
+# 💫  Hi 👋,  This is  _Vashu Rajak_
 
 ## A passionate Full Stack Developer | Python Developer | AI & ML Student from Krishna Institute of Technology (KIOT), Kanpur .
 
