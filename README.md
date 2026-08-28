@@ -6,7 +6,7 @@
 
 - 🔭  I’m currently working on: _Full Stack Web Development Projects_ <br>
 - 🌱 _I’m currently learning_: _**Flask, MySQL, Git & GitHub, DSA**_ <br>
-- 👯 I’m looking to collaborate on: **_Python_** & **Full Stack** Projects <br>
+- 👯 I’m looking to collaborate on: **_Python_** & **_Full Stack_** Projects <br>
 -  🤔 I’m looking for help with: Open Source Contributions <br>
 -   💬 Ask me about: Python, Flask, HTML, CSS, SQLite, Git <br>
 -   📫 How to reach me: _vashurajak660@gmail.com_ <br>
