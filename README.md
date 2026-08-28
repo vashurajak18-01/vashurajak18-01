@@ -11,7 +11,7 @@
 -> 🤔 I’m looking for help with: Open Source Contributions <br>
 -> 💬 Ask me about: Python, Flask, HTML, CSS, SQLite, Git <br>
 -> 📫 How to reach me: _vashurajak660@gmail.com_ <br>
--> 😄 Pronouns: He/Him <br>
+-> 😄 _Pronouns_: He/Him <br>
 -> ⚡ _Fun fact_: I love turning ideas into real-world applications through code.
 
 ---
