@@ -4,7 +4,7 @@
 
 📧 **Email Me** 👉 ✉️ _vashurajak660@gmail.com_ for Collaboration, _Projects_, or Tech Discussions. 😊
 
-- 🔭  *I’m currently working on: _Full Stack Web Development Projects_* <br>
+- 🔭  ** I’m currently working on: _Full Stack Web Development Projects_** <br>
 - 🌱 _I’m currently learning_: _**Flask, MySQL, Git & GitHub, DSA**_ <br>
 - 👯 I’m looking to collaborate on: **_Python_** & **_Full Stack_** Projects <br>
 - 🤔 _I’m looking for help with_: Open Source Contributions <br>
