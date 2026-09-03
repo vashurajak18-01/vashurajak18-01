@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on: **_Python_** & **_Full Stack_** Projects <br>
 - 🤔 _I’m looking for help with_: Open Source Contributions <br>
 - 💬 _Ask me about_: **Python**, **Flask**, **HTML**, **CSS**, **SQLite**, **Git** <br>
-- 📫 How to reach me: _vashurajak660@gmail.com_ <br>
+- 📫 _How to reach me_: _vashurajak660@gmail.com_ <br>
 - 😄 _Pronouns_: **He/Him** <br>
 - ⚡ _Fun fact_: I love turning ideas into real-world applications through code.
 
