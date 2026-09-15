@@ -11,7 +11,7 @@
 - 💬 _Ask me about_: **Python**, **Flask**, **HTML**, **CSS**, **SQLite**, **Git** <br>
 - 📫 _How to reach me_: _vashurajak660@gmail.com_ <br>
 - 😄 _Pronouns_: **He/Him** <br>
-- ⚡ _Fun fact_: *_I love turning ideas into real-world applications through code._*
+- ⚡ _Fun fact_: **_I love turning ideas into real-world applications through code._**
 
 ---
 [![](https://komarev.com/ghpvc/?username=Vashu Rajak&icon=0&color=0)](https://visitcount.itsvg.in)
