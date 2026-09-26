@@ -2,7 +2,7 @@
 
 ## A passionate *_Full Stack Developer_* | **_Python Developer_** | **_AI & ML Student_** from **_Krishna Institute of Technology (KIOT)_**, ***_Kanpur Nagar_*** .
 
-📧 *Email Me*  👉 ✉️ ***_vashurajak660@gmail.com_*** for Collaboration, _Projects_, or **_Tech Discussions._** 😊
+📧 *Email Me*  👉 ✉️ ***__vashurajak660@gmail.com__*** for Collaboration, _Projects_, or **_Tech Discussions._** 😊
 
 - 🔭  *_I’m currently working on_**: **_Full Stack Web Development_** Projects <br>
 - 🌱 *_I’m_ currently learning*: _*Flask, MySQL, Git & GitHub, DSA*_ <br>
