@@ -1,4 +1,4 @@
-# 💫  **__Hello__** 👋, _I'm_ **__Vashu Rajak__**
+# 💫  **__Hello__** 👋, _I'm_ **_Vashu Rajak_**
 
 ## A passionate **__Full Stack Developer__** | **_Python Developer_** | **__AI & ML Student__** from **_Krishna Institute of Technology (KIOT)_**, **__Kanpur Nagar__** .
 
